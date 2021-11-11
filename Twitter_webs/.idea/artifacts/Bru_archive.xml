@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Bru archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bru_archive</output-path>
+    <root id="archive" name="Bru archive.war">
+      <element id="artifact" artifact-name="Bru" />
+    </root>
+  </artifact>
+</component>
