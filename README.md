@@ -1,6 +1,6 @@
-# COMP3211 Distributed Systems Cwk2
+# Movie Recommendation Twitter Bot
 
-Coursework 2 on Distributed Systems
+Made for Coursework 2 on COMP 3211 Distributed Systems, University of Leeds
 
 ### Team Members:
 
